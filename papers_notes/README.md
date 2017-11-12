@@ -1,1 +1,1 @@
-These are notes for papers.
+These are notes for paper.
