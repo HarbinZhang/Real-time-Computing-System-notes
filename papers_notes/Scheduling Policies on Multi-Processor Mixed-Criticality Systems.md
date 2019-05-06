@@ -23,4 +23,4 @@ The rules for OCOP:
 
 I think there are two cases here:
 1. † from LO to HI: like the rules said, assign the HI tasks to processors. Which is easy to implement, like communication between processors. Let another processor to run the task sequentially.
-2. † from HI to LO: in this paper, the HI tasks will be assigned to the same processor according to first fit. I think may be we can keep the current task allocation, but it is inconsistant.
+2. † from HI to LO: in this paper, the HI tasks will be assigned to the same processor according to first fit. I think may be we can keep the current task allocation, but it is inconsistent.
